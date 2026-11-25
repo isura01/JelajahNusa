@@ -196,7 +196,7 @@ button:focus-visible,
   padding: 120px 0 160px;
   background:
     linear-gradient(100deg, rgba(19, 41, 75, 0.78) 0%, rgba(19, 41, 75, 0.35) 55%, rgba(255, 120, 60, 0.15) 100%),
-    url("../images/hero.jpg") center / cover no-repeat;
+    url("images/hero.jpg") center / cover no-repeat;
 }
 
 .hero-content {
